@@ -11,7 +11,7 @@ cd ldm
 pip install -e ".[torch]"
 ```
 ### Note 
-the diffusers have been modified to support IP-adapter and our text embedding optimization which is different from huggingface-released.
+the diffusers have been modified and we define new pipe "StableDiffusionControlNetFaceInpaintPipeline" to support IP-adapter and our text embedding optimization which is different from huggingface-released.
 
 ## Download Pretrained Weights
 The weights required for FaceParser can be downloaded from [link](
