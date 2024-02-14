@@ -10,7 +10,8 @@ conda activate swap
 cd ldm
 pip install -e ".[torch]"
 ```
-### note the diffusers have been modified to support IP-adapter and our text embedding optimization which is different from huggingface-released and make sure the connection to huggingface is ok
+### note 
+the diffusers have been modified to support IP-adapter and our text embedding optimization which is different from huggingface-released and make sure the connection to huggingface is ok
 
 ## Download Pretrained Weights
 The weights required for FaceParser can be downloaded from [link](
