@@ -15,7 +15,7 @@ the diffusers have been modified and we define new pipe "StableDiffusionControlN
 
 ## Download Pretrained Weights
 The weights required for FaceParser can be downloaded from [link](
-https://gisto365-my.sharepoint.com/personal/hongieee_gm_gist_ac_kr/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhongieee%5Fgm%5Fgist%5Fac%5Fkr%2FDocuments%2FDiffFace%2Fcheckpoints%2FFaceParser%2Epth&parent=%2Fpersonal%2Fhongieee%5Fgm%5Fgist%5Fac%5Fkr%2FDocuments%2FDiffFace%2Fcheckpoints). 
+https://gisto365-my.sharepoint.com/personal/hongieee_gm_gist_ac_kr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhongieee%5Fgm%5Fgist%5Fac%5Fkr%2FDocuments%2FDiffFace%2Fcheckpoints&ga=1). 
 The weights required for ArcFace can be downloaded from [link](https://github.com/neuralchen/SimSwap/releases/download/1.0/arcface_checkpoint.tar). 
 
 ```
