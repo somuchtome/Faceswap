@@ -1,6 +1,6 @@
 # Face Swap via Diffusion Model
 
-PyTorch implementation of Face Swap via Diffusion Model
+PyTorch implementation of Face Swap via Diffusion Model. Technical Report:https://arxiv.org/abs/2403.01108
 
 ## Environment setup
 ```
